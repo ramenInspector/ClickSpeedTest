@@ -1,1 +1,3 @@
 # ClickSpeedTest
+
+click fast bru
